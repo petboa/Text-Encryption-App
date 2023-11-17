@@ -1,5 +1,7 @@
 # Text Encryption App
 
+![work 6](https://github.com/petboa/Text-Encryption-App/assets/112291489/78daa05f-0620-4fd4-a536-787e54be6360)
+
 ## Overview
 The Text Encryption App is a simple Python application that allows users to encrypt and decrypt text using a password of their choice. The app is built using the Tkinter library for the graphical user interface and utilizes basic encryption techniques to secure the input text.
 
